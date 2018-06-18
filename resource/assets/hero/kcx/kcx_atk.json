@@ -1,0 +1,26 @@
+{
+  "kcx": {
+    "walk":{
+        "priority":15,
+        "toPAbody":false
+    },
+    "jump":{
+        "priority":8,
+        "toPAbody":false
+    },
+    "stand":{
+        "priority":15,
+        "toPAbody":false
+    },
+    "arm_attack": {
+        "priority":7,
+        "damage":50,
+        "damage_type":"AD",
+        "description":"拳",
+        "repel_distance_xspeed":0,
+        "damage_Area":[0,100,140,50],
+        "toPAbody":false,
+        "PAbody_beat":false
+    }
+  }
+}

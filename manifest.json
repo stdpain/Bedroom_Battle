@@ -1,0 +1,38 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/socket/socket.js",
+		"libs/modules/promise/promise.js"
+	],
+	"game": [
+		"bin-debug/heros/Action.js",
+		"bin-debug/heros/Hero.js",
+		"bin-debug/heros/CollisionTest.js",
+		"bin-debug/Platform.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/control/ControlBtn.js",
+		"bin-debug/control/Controller.js",
+		"bin-debug/control/SceneManager.js",
+		"bin-debug/control/VirtualJoystick.js",
+		"bin-debug/Event/CollisionEvent.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/heros/Attack.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/heros/KCX.js",
+		"bin-debug/heros/ObjWapper.js",
+		"bin-debug/heros/Status.js",
+		"bin-debug/Scene/BattleMain.js",
+		"bin-debug/Scene/BattleScene.js",
+		"bin-debug/Scene/MainScene.js",
+		"bin-debug/utils/BloodBar.js",
+		"bin-debug/utils/BloodBarComp.js",
+		"bin-debug/utils/CollisionTestingPool.js",
+		"bin-debug/utils/WebSocketManager.js"
+	]
+}

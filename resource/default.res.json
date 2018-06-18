@@ -1,0 +1,185 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,bg_jpg,description_json,gan_core_png,gan_home_png,o_png,rect_png,tang_png,x_png,player_png,player_json,kcx_json,kcx_png,xue_png,xue_border_png,mask_png,kcx_yfixed_json,kcx_atk_json,kcx_act_json,dark01@2x_png,texiao_png,texiao_json,border_png,header_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "1.png",
+			"type": "image",
+			"name": "1_png"
+		},
+		{
+			"name": "gan_core_png",
+			"type": "image",
+			"url": "assets/control/gan_core.png"
+		},
+		{
+			"name": "gan_home_png",
+			"type": "image",
+			"url": "assets/control/gan_home.png"
+		},
+		{
+			"name": "o_png",
+			"type": "image",
+			"url": "assets/control/o.png"
+		},
+		{
+			"name": "rect_png",
+			"type": "image",
+			"url": "assets/control/rect.png"
+		},
+		{
+			"name": "tang_png",
+			"type": "image",
+			"url": "assets/control/tang.png"
+		},
+		{
+			"name": "x_png",
+			"type": "image",
+			"url": "assets/control/x.png"
+		},
+		{
+			"name": "player_png",
+			"type": "image",
+			"url": "assets/hero/player/player.png"
+		},
+		{
+			"name": "player_json",
+			"type": "json",
+			"url": "assets/hero/player/player.json"
+		},
+		{
+			"name": "kcx_json",
+			"type": "json",
+			"url": "assets/hero/kcx/kcx.json"
+		},
+		{
+			"name": "kcx_png",
+			"type": "image",
+			"url": "assets/hero/kcx/kcx.png"
+		},
+		{
+			"name": "xue_png",
+			"type": "image",
+			"url": "assets/cmp/xue.png"
+		},
+		{
+			"name": "xue_border_png",
+			"type": "image",
+			"url": "assets/cmp/xue_border.png"
+		},
+		{
+			"name": "mask_png",
+			"type": "image",
+			"url": "assets/cmp/mask.png"
+		},
+		{
+			"name": "kcx_yfixed_json",
+			"type": "json",
+			"url": "assets/hero/kcx/kcx_yfixed.json"
+		},
+		{
+			"name": "kcx_atk_json",
+			"type": "json",
+			"url": "assets/hero/kcx/kcx_atk.json"
+		},
+		{
+			"name": "kcx_act_json",
+			"type": "json",
+			"url": "assets/hero/kcx/kcx_act.json"
+		},
+		{
+			"name": "dark01@2x_png",
+			"type": "image",
+			"url": "assets/dark01@2x.png"
+		},
+		{
+			"name": "texiao_png",
+			"type": "image",
+			"url": "assets/texiao.png"
+		},
+		{
+			"name": "texiao_json",
+			"type": "json",
+			"url": "assets/texiao.json"
+		},
+		{
+			"name": "border_png",
+			"type": "image",
+			"url": "assets/Panel/border.png"
+		},
+		{
+			"name": "header_png",
+			"type": "image",
+			"url": "assets/Panel/header.png"
+		}
+	]
+}

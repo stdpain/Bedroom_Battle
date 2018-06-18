@@ -1,0 +1,6 @@
+{
+  "kcx": {
+      "action":["walk","jump","stand"],
+      "attack":["arm_attack"]
+  }
+}
